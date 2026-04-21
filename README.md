@@ -22,7 +22,7 @@ Setup Instructions
 
 ## Clone the repository:
 
-git clone <https://github.com/Sneha07k/Online-Rental-Service>
+git clone <https://github.com/Sneha07k/Online-Rental-Service-Platform>
 
 
 ## Navigate to the project folder:
