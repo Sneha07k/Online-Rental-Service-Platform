@@ -59,12 +59,12 @@ java -cp ".;mysql-connector-j-8.0.33.jar" findmyroomie.MainFrame
 
 
 ### Browse rooms
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6ec720a9-b092-47f7-8256-505d44c61be6" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76242332-82e3-45c9-8bb4-51f1eb479614" />
 
 
 
 ### Application requests
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eb2e2b3d-551a-4f70-bc30-f8a2922c0c8d" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/59a5ad58-95bd-426b-9139-d9ddc090e54d" />
 
 
 
